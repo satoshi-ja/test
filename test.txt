@@ -4,3 +4,5 @@ hello
 リモートで追加しました
 
 Coda2からgitテスト
+
+aaa
